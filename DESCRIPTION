@@ -1,5 +1,5 @@
 Package: MapfxData
-Title: FCS Data from MPC and FFC assays for Testing the MAPFX Package and Building the Vignette
+Title: FCS Data from MPC and FFC Assays for Testing the MAPFX Package and Building the Vignette
 Version: 0.99.0
 Authors@R: 
     person(person("Hsiao-Chi", "Liao", email = "chelsea.acad@gmail.com", role = c("aut", "cre"), comment = c(ORCID = "0000-0002-9586-1246"))
