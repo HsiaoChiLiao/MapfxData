@@ -1,0 +1,14 @@
+Package: MapfxData
+Title: FCS Data from MPC and FFC for Testing the MAPFX Package and Building the Vignette
+Version: 0.99.0
+Authors@R: 
+    person(person("Hsiao-Chi", "Liao", email = "chelsea.acad@gmail.com", role = c("aut", "cre"), comment = c(ORCID = "0000-0002-9586-1246"))
+Description: This package contains fcs data files from both Massively-Parallel Cytometry (MPC) and Fluorescence Flow Cytometry (FFC) assays for testing the MAPFX package and building the Vignette. The sample files contain data from the single-cell murine lung data at steady state downloaded from Becht *et al., 2021* (MPC) and mice splenocytes data from Alshaweesh *et al., 2023* (FFC).
+Depends: R (>= 4.4.0)
+License: GPL-2
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+biocViews: ExperimentData, FlowCytometryData
+Suggests: knitr, rmarkdown, flowCore
+git_url: https://github.com/HsiaoChiLiao/MapfxData
